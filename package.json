@@ -1,0 +1,11 @@
+{
+  "name": "typescript-drag-and-drop",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
